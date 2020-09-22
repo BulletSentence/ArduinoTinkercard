@@ -25,6 +25,8 @@ Arduino programming using Tinkercard simulator
   <dt>2. Connect the black wire on GND port</dt>
   <dd>The black one is for grounding</dd>
 </dl>
+
 ![Capture](https://user-images.githubusercontent.com/37451620/93835796-ccb4a800-fc56-11ea-83eb-242b0519ef4e.PNG)
+
 </details>
 
