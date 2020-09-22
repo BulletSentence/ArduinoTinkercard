@@ -63,6 +63,15 @@ Arduino programming using Tinkercard simulator
 
 </details>
 
+<details>
+<summary>Arduino</summary>
+<dl>
+  <dt>Arduino Board</dt>
+</dl>
+  
+  * Amper: 40mA
+
+</details>
 
 <details>
 <summary>Led</summary>
@@ -70,8 +79,8 @@ Arduino programming using Tinkercard simulator
   <dt>Led lamp device</dt>
   <dd>The "+" is for power, and the "-" is for ground, the bigger wire is the "+" and the smaller is the "-"</dd>
 </dl>
-
-![Capture](https://user-images.githubusercontent.com/37451620/93883412-e803cf80-fcb7-11ea-852d-2c1eee68b2cc.JPG)
+  
+  * Amper: 15mA
 
 </details>
 
