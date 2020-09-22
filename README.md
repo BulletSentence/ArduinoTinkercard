@@ -86,7 +86,7 @@ Arduino programming using Tinkercard simulator
   <dd>They share the same vertical ports so they need to be in the same vertical line</dd>
 </dl>
 
-![Capture](https://user-images.githubusercontent.com/37451620/93835796-ccb4a800-fc56-11ea-83eb-242b0519ef4e.PNG)
+![Capture](https://user-images.githubusercontent.com/37451620/93836886-895c3880-fc5a-11ea-8936-c4bb0115f6b5.PNG)
 
 </details>
 
