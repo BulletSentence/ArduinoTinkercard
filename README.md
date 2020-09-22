@@ -18,7 +18,12 @@ Arduino programming using Tinkercard simulator
 # Setting Up Things
 <details>
 <summary>Setting up a Motor</summary>
-1. First ordered list item
-2. Another item
+<dl>
+  <dt>1. Connect the red wire on 5v port</dt>
+  <dd>The red wire is for volts</dd>
+
+  <dt>2. Connect the black wire on GND port</dt>
+  <dd>The black one is for grounding</dd>
+</dl>
 </details>
 
