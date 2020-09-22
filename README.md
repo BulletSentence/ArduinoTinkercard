@@ -43,6 +43,13 @@ Arduino programming using Tinkercard simulator
 
 # Peripherals 🛠
 
+<details>
+<summary>Protoboard</summary>
+<dl>
+  <dt>Device with multiple serial ports</dt>
+  <dd>Connections are shared in series with other port pins</dd>
+</dl>
+</details>
 
 ------
 
