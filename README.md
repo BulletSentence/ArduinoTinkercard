@@ -18,11 +18,7 @@ Arduino programming using Tinkercard simulator
 # Setting Up Things
 <details>
 <summary>Setting up a Motor</summary>
-  
-  0 - Conectado o fio preto a porta GND
-  
-  1 - Conectado o fio vermelho a porta 5V
-  
-  
+1. First ordered list item
+2. Another item
 </details>
 
