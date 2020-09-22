@@ -54,6 +54,13 @@ Arduino programming using Tinkercard simulator
 
 </details>
 
+<details>
+<summary>Resistor</summary>
+
+![Capture](https://user-images.githubusercontent.com/37451620/93900120-66b63800-fccb-11ea-996b-6036b00c841a.JPG)
+
+</details>
+
 ------
 
 # Setting Up Things 🕹
