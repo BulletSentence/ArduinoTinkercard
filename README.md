@@ -41,7 +41,7 @@ Arduino programming using Tinkercard simulator
 
 -----
 
-# Peripherals
+# Peripherals 🛠
 
 
 ------
