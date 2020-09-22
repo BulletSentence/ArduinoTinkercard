@@ -54,10 +54,24 @@ Arduino programming using Tinkercard simulator
 
 </details>
 
+
+
 <details>
 <summary>Resistor</summary>
 
 ![Capture](https://user-images.githubusercontent.com/37451620/93900120-66b63800-fccb-11ea-996b-6036b00c841a.JPG)
+
+</details>
+
+
+<details>
+<summary>Led</summary>
+<dl>
+  <dt>Led lamp device</dt>
+  <dd>The "+" is for power, and the "-" is for ground, the bigger wire is the "+" and the smaller is the "-"</dd>
+</dl>
+
+![Capture](https://user-images.githubusercontent.com/37451620/93883412-e803cf80-fcb7-11ea-852d-2c1eee68b2cc.JPG)
 
 </details>
 
