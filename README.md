@@ -1,21 +1,21 @@
-# Arduino & Tinkercard
+# Arduino & Tinkercard ⚙
 Arduino programming using Tinkercard simulator
 
 -----
 
-# Ports
+# Ports 📌
 * GND - Ground
 * 5V - Volt
 
 -----
 
-# Wires
+# Wires 🔌
 * Black - Ground wire
 * Red - Energy Volt
 
 -----
 
-# Setting Up Things
+# Setting Up Things 🕹
 <details>
 <summary>Setting up a Motor</summary>
 <dl>
