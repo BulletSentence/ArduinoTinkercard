@@ -2,7 +2,7 @@
 Arduino programming using Tinkercard simulator
 
 # Anotações
-Porta GND - Aterramento
+* Porta GND - Aterramento
 
 
 <details>
