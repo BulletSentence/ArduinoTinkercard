@@ -68,3 +68,25 @@ Arduino programming using Tinkercard simulator
 
 </details>
 
+
+
+<details>
+<summary>Setting up a Motor with Protoboard</summary>
+<dl>
+  <dt>1. Connect the red wire on the protoboard</dt>
+  <dd>The red wire is for volts</dd>
+
+  <dt>2. Connect the black wire on a diferent protoboard port (vertical)</dt>
+  <dd>The black one is for grounding</dd>
+  
+   <dt>3. Connect the 5v volt port from arduino on a vertical pin where is placed the motor red wire</dt>
+  <dd>They share the same vertical ports so they need to be in the same vertical line</dd>
+  
+   <dt>4. Connect the Ground volt port from arduino on a vertical pin where is placed the motor Black wire</dt>
+  <dd>They share the same vertical ports so they need to be in the same vertical line</dd>
+</dl>
+
+![Capture](https://user-images.githubusercontent.com/37451620/93835796-ccb4a800-fc56-11ea-83eb-242b0519ef4e.PNG)
+
+</details>
+
