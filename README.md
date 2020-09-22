@@ -49,6 +49,9 @@ Arduino programming using Tinkercard simulator
   <dt>Device with multiple serial ports</dt>
   <dd>Connections are shared in series with other port pins</dd>
 </dl>
+
+![Capture](https://user-images.githubusercontent.com/37451620/93883412-e803cf80-fcb7-11ea-852d-2c1eee68b2cc.JPG)
+
 </details>
 
 ------
