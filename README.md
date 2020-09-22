@@ -7,7 +7,7 @@ Arduino programming using Tinkercard simulator
 <details>
 <summary>GND</summary>
 <dl>
-  <dt>Ground Port</dt>
+  <dt> * Ground Port</dt>
   <dd> </dd>
 </dl>
 </details>
@@ -15,7 +15,7 @@ Arduino programming using Tinkercard simulator
 <details>
 <summary>5V</summary>
 <dl>
-  <dt>Volt Port</dt>
+  <dt>* Volt Port</dt>
   <dd> </dd>
 </dl>
 </details>
@@ -26,7 +26,7 @@ Arduino programming using Tinkercard simulator
 <details>
 <summary>Black - Ground Wire</summary>
 <dl>
-  <dt>Ground Wire</dt>
+  <dt>* Ground Wire</dt>
   <dd>It takes energy from the circuit</dd>
 </dl>
 </details>
@@ -34,7 +34,7 @@ Arduino programming using Tinkercard simulator
 <details>
 <summary>Red - Energy Wire</summary>
 <dl>
-  <dt>Volt Wire</dt>
+  <dt>* Volt Wire</dt>
   <dd>It gives energy to the circuit</dd>
 </dl>
 </details>
