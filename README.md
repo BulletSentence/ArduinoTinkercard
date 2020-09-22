@@ -4,16 +4,47 @@ Arduino programming using Tinkercard simulator
 -----
 
 # Ports 📌
-* GND - Ground
-* 5V - Volt
+<details>
+<summary>GND</summary>
+<dl>
+  <dt>Ground Port</dt>
+  <dd> </dd>
+</dl>
+</details>
+
+<details>
+<summary>5V</summary>
+<dl>
+  <dt>Volt Port</dt>
+  <dd> </dd>
+</dl>
+</details>
 
 -----
 
 # Wires 🔌
-* Black - Ground wire
-* Red - Energy Volt
+<details>
+<summary>Black - Ground Wire</summary>
+<dl>
+  <dt>Ground Wire</dt>
+  <dd>It takes energy from the circuit</dd>
+</dl>
+</details>
+
+<details>
+<summary>Red - Energy Wire</summary>
+<dl>
+  <dt>Volt Wire</dt>
+  <dd>It gives energy to the circuit</dd>
+</dl>
+</details>
 
 -----
+
+# Peripherals
+
+
+------
 
 # Setting Up Things 🕹
 <details>
