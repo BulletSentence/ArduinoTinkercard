@@ -1,0 +1,19 @@
+int const redLed = 2;
+int const on = 1;
+int const off = 0;
+
+
+void setup()
+{
+  
+  pinMode(redLed, OUTPUT);
+
+}
+
+void loop()
+{
+  digitalWrite(2, on);
+  delay(1000);
+  digitalWrite(2, off); 
+  delay(1000);
+}
