@@ -12,9 +12,7 @@
 // OFF
 // ONE_SECOND
 
-
-void setup()
-{
+void portStart(){
   Serial.begin(9600);
   pinMode(RED_LED, OUTPUT);
   pinMode(BLUE_LED, OUTPUT);
@@ -57,6 +55,12 @@ void serialView(){
   Serial.println(YELLOW_LED);
   Serial.println(GREEN_LED);
   Serial.println(YELLOW_LED);
+}
+
+
+void setup()
+{
+  portStart();
 }
 
 void loop()
