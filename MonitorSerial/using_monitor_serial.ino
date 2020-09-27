@@ -1,4 +1,5 @@
-int const redLed = 2;
+#define RED_LED 2
+
 int const on = 1;
 int const off = 0;
 
@@ -6,13 +7,13 @@ int const off = 0;
 void setup()
 {
   Serial.begin(9600);
-  pinMode(redLed, OUTPUT);
+  pinMode(RED_LED, OUTPUT);
 
 }
 
 void loop()
 {
-  Serial.println(redLed);
+  Serial.println(RED_LED);
   digitalWrite(2, on);
   delay(1000);
   digitalWrite(2, off); 
