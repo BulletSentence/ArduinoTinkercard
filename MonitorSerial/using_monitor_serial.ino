@@ -1,7 +1,12 @@
 #define RED_LED 2
+#define ON 1
+#define OFF 0
+#define ONE_SECOND 1000
 
-int const on = 1;
-int const off = 0;
+// Variables Defined
+// ON
+// OFF
+// ONE_SECOND
 
 
 void setup()
@@ -14,8 +19,8 @@ void setup()
 void loop()
 {
   Serial.println(RED_LED);
-  digitalWrite(RED_LED, on);
-  delay(1000);
-  digitalWrite(RED_LED, off); 
-  delay(1000);
+  digitalWrite(RED_LED, ON);
+  delay(ONE_SECOND);
+  digitalWrite(RED_LED, OFF); 
+  delay(ONE_SECOND);
 }
