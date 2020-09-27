@@ -29,13 +29,23 @@ void led_flash(int led_port){
   delay(ONE_SECOND);
 }
 
-void loop()
-{
-  Serial.println(RED_LED);
-  
+void flashSequence1(){
   led_flash(RED_LED);
   led_flash(YELLOW_LED);
   led_flash(GREEN_LED);
   led_flash(BLUE_LED);
+}
+
+void serialView(){
+  Serial.println(RED_LED);
+  Serial.println(YELLOW_LED);
+  Serial.println(GREEN_LED);
+  Serial.println(BLUE_LED);
+}
+
+void loop()
+{
+  serialView();
+  flashSequence1();
 }
 
