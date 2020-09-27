@@ -73,6 +73,8 @@ void setup(){
 }
 
 void loop(){
-  led_flash(ledSequence[1]);
+  for(int i = 0; i < QTY_LED; i++){
+    led_flash(ledSequence[i]);
+  }
 }
 
