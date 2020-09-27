@@ -1,4 +1,8 @@
 #define RED_LED 2
+#define YELLOW_LED 4
+#define GREEN_LED 7
+#define BLUE_LED 8
+
 #define ON 1
 #define OFF 0
 #define ONE_SECOND 1000
