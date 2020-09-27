@@ -17,7 +17,9 @@ void setup()
 {
   Serial.begin(9600);
   pinMode(RED_LED, OUTPUT);
-
+  pinMode(BLUE_LED, OUTPUT);
+  pinMode(GREEN_LED, OUTPUT);
+  pinMode(YELLOW_LED, OUTPUT);
 }
 
 void led_flash(int led_port){
