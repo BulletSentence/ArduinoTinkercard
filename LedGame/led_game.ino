@@ -69,10 +69,10 @@ void startGame(){
 
 void setup(){
   portStart();
+  startGame();
 }
 
 void loop(){
-  startGame();
   led_flash(ledSequence[1]);
 }
 
