@@ -61,7 +61,10 @@ void serialView(){
 }
 
 void startGame(){
-  ledSequence = {RED_LED, BLUE_LED, GREEN_LED, YELLOW_LED};
+  ledSequence[0] = RED_LED;
+  ledSequence[1] = YELLOW_LED;
+  ledSequence[2] = GREEN_LED; 
+  ledSequence[3] = BLUE_LED;
 }
 
 void setup(){
