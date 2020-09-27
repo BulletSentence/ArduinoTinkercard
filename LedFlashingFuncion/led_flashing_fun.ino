@@ -32,7 +32,10 @@ void led_flash(int led_port){
 void loop()
 {
   Serial.println(RED_LED);
-  led_flash(RED_LED);
   
+  led_flash(RED_LED);
+  led_flash(YELLOW_LED);
+  led_flash(GREEN_LED);
+  led_flash(BLUE_LED);
 }
 
