@@ -14,8 +14,8 @@ void setup()
 void loop()
 {
   Serial.println(RED_LED);
-  digitalWrite(2, on);
+  digitalWrite(RED_LED, on);
   delay(1000);
-  digitalWrite(2, off); 
+  digitalWrite(RED_LED, off); 
   delay(1000);
 }
