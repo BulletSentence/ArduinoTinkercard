@@ -36,16 +36,34 @@ void flashSequence1(){
   led_flash(BLUE_LED);
 }
 
+void allLightsOn(){
+  digitalWrite(RED_LED, ON);
+  digitalWrite(BLUE_LED, ON);
+  digitalWrite(GREEN_LED, ON);
+  digitalWrite(YELLOW_LED, ON);
+  delay(ONE_SECOND);
+}
+
+void allLightsOff(){
+  digitalWrite(RED_LED, OFF);
+  digitalWrite(BLUE_LED, OFF);
+  digitalWrite(GREEN_LED, OFF);
+  digitalWrite(YELLOW_LED, OFF); 
+  delay(ONE_SECOND);
+}
+
 void serialView(){
   Serial.println(RED_LED);
   Serial.println(YELLOW_LED);
   Serial.println(GREEN_LED);
-  Serial.println(BLUE_LED);
+  Serial.println(YELLOW_LED);
 }
 
 void loop()
 {
   serialView();
   flashSequence1();
+  allLightsOn();
+  allLightsOff();
 }
 
