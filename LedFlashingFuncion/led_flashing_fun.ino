@@ -16,17 +16,17 @@ void setup()
 
 }
 
-void led_flash(){
-  digitalWrite(RED_LED, ON);
+void led_flash(int led_port){
+  digitalWrite(led_port, ON);
   delay(ONE_SECOND);
-  digitalWrite(RED_LED, OFF); 
+  digitalWrite(led_port, OFF); 
   delay(ONE_SECOND);
 }
 
 void loop()
 {
   Serial.println(RED_LED);
-  led_flash();
+  led_flash(RED_LED);
   
 }
 
